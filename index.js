@@ -6,7 +6,7 @@ inquirer.prompt([
     {
         type : "input",
         name : "answer",
-        message : "Hi, how are you?"
+        message : "Hello, Enter the full URL please: "
     }
 ]).then((answers) => {
 
