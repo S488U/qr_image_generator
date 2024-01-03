@@ -1,0 +1,16 @@
+{
+  "name": "qr_code_project",
+  "version": "1.0.0",
+  "description": "I am creating the QR code project using nodeJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahabas Abdul Hameed",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}
