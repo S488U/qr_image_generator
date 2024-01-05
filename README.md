@@ -10,11 +10,12 @@ Second one is, [qr-image](https://www.npmjs.com/package/qr-image). it used to co
 ## How to run:
 
 1. Open your Terminal.
-2. First of all navigate the folder qr_image_generator. 
-3. run the command `npm install`
-4. To generate the Image: run the command, `node ./index.js`
-5. It will ask you to enter the prompt. Enter the full url of a website with `http` or `https`
-6. The generated Image will be stored inside the root folder. Named as `qr_img.png`
+2. Git Clone the project: ` git clone https://github.com/S488U/qr_image_generator.git`
+3. First of all open the folder qr_image_generator `cd qr_image_generator`
+4. run the command `npm install`
+5. To generate the Image: run the command, `node ./index.js`
+6. It will ask you to enter the prompt. Enter the full url of a website with `http` or `https`
+7. The generated Image will be stored inside the root folder. Named as `qr_img.png`
 
 #
 ## My Social Media:
