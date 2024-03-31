@@ -1,7 +1,7 @@
 # QR Code Generator
 
 My first Project with Node JS. 
-I used two Node Package Manager(npm) to get the result. 
+I used to Node Package Manager(npm) to get the result. 
 
 First one is, [inquirer](https://www.npmjs.com/package/inquirer). It used two get the input from the User. We need the URL from the user. 
 
